@@ -1,6 +1,6 @@
 // config.js
 module.exports = {
-  token: '7753023444:AAEsWo1tyldwKD93YyE3SmFKdqIgj-ZA88s',
-  id: '7669164275,7941824028',
+  token: '8130798303:AAE8nE05qdUmjaAgzkVerMO5SgMRza8j4Ek',
+  id: '8076886330',
   address: 'https://www.google.com'
 };
